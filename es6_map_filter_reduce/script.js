@@ -7,7 +7,7 @@ let resta = function(a,b){
     return a-b;
 }
 // Pura
-let multiplicacion = (a,b) => a*b; // hay un return implícito
+let multiplicacion = (a,b) => a*b; // hay un return implícito. OJO!
 console.log(multiplicacion(2,3))
 
 let cuadrado = x => x**2;
